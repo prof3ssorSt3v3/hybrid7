@@ -18,3 +18,5 @@ const data = {
     { id: 1, name: 'Shelob', race: 'Spider' },
   ],
 };
+
+module.exports = data;
