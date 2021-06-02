@@ -17,7 +17,7 @@ git init
 git add -A
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/yourUserName/hybrid7.git
+git remote add origin https://github.com/<Your-Github-User-Name>/hybrid7.git
 git push -u origin main
 ```
 
